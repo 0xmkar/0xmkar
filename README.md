@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 * 💻 I’m currently working on Python Automation.
 * 🌱 I’m currently learning DSA.
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AtmegaBuzz&show_icons=true&theme=synthwave">
 
 [Discord]: https://discordapp.com/users/688047401277456424/
