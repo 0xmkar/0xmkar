@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 * 🌱 I’m currently learning DSA.
 
 
-[Discord] [https://discordapp.com/users/688047401277456424/]
+[Discord]: [https://discordapp.com/users/688047401277456424/]
