@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```
- 💻 I’m currently working on Python Automation and DSA.
+* 💻 I’m currently working on Python Automation and DSA.
 ```
