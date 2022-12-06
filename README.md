@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatguyy" alt="fatguyy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/omkarj639" target="blank"><img src="https://img.shields.io/twitter/follow/omkarj639?logo=twitter&style=for-the-badge" alt="omkarj639" /></a> </p>
 
@@ -27,5 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatguyy&show_icons=true&locale=en&layout=compact" alt="fatguyy" /></p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FatGuyy&show_icons=true&theme=synthwave">
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatguyy" alt="fatguyy" /></a> </p>
 
 <a href=#><img src="contributions.svg"></a>
