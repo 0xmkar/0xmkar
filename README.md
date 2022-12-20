@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar</h1>
-<h3 align="center">A passionate python developer from India</h3>
+<h3 align="center">A passionate python developer.</h3>
 
 
 <p align="left"> <a href="https://twitter.com/omkarj639" target="blank"><img src="https://img.shields.io/twitter/follow/omkarj639?logo=twitter&style=for-the-badge" alt="omkarj639" /></a> </p>
