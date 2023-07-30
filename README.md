@@ -78,13 +78,3 @@
 
 <br/>
 <br/>
-
-## Connect with me:
-<p align="left">
-
-<p href = "https://www.linkedin.com/in//"></p>
-<p href="mailto:omkarjadhav2103@gmail.com"></p>
-<p href = "https://twitter.com/OmkarJ639"></p>
-
-</p>
-
