@@ -82,9 +82,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/FatGuyy/"></a>
-<a href="mailto:omkarjadhav2103@gmail.com"></a>
-<a href = "https://twitter.com/OmkarJ639"></a>
+<p href = "https://www.linkedin.com/in//"></p>
+<p href="mailto:omkarjadhav2103@gmail.com"></p>
+<p href = "https://twitter.com/OmkarJ639"></p>
 
 </p>
 
