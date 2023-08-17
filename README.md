@@ -39,6 +39,8 @@
   <br>
      
 <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff"></a>
+<a href="#"><img alt="Django" src="https://img.shields.io/badge/-Django-%23092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=%23092E20&color=%23092E20"></a>
+<a href="#"><img alt="Flask" src="https://img.shields.io/badge/-Flask-%23000?style=for-the-badge&logo=flask&logoColor=white&labelColor=%23000&color=%23000"></a>
 <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
   <br>
   
