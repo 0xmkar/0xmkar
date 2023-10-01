@@ -7,7 +7,7 @@
 ──────┼──────────────────────────────────────────────────────────────
       |  class Developer:
       |        def __init__(self):
-      |            self.name                =  "Omkar "
+      |            self.name                =  "Omkar Jadhav"
       |            self.language_spoken     =  ["hi_IN", "en_US"]
       |            currently.working        =  " Open Source "
       |            currently.learning       =  " Rust "
