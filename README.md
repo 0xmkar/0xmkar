@@ -72,6 +72,8 @@ I'm Fullstack Blockchain Developer<br>Currently working on Django and Node.js ba
 <a href="#"><img alt="LLMs" src="https://img.shields.io/badge/LLM-%23000000.svg?style=for-the-badge&logo=ai&logoColor=white"></a>
 <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-%2335495E.svg?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white"></a>
+
 
 
 <br/>
