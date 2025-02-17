@@ -1,3 +1,6 @@
+# 💫 About Me:
+I'm Fullstack Blockchain Developer<br>Currently working on Django and Node.js based projects <br>Looking for open-source contributions <br>SIH'23 Winner<br>Crypto FNO trader<br>
+
 
 ```
 📂 ~/git:(master) ⚡
