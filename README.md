@@ -81,9 +81,9 @@ I'm Fullstack Blockchain Developer<br>Currently working on Django and Node.js ba
 My Github Stats 📊
 
   <br/>
-    <a href="https://github.com/FatGuyy/github-readme-stats"><img alt="Omkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FatGuyy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/0xmkar/github-readme-stats"><img alt="Omkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xmkar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
       
-  <a href="https://github.com/FatGuyy/github-readme-stats"><img alt="Omkar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatGuyy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/0xmkar/github-readme-stats"><img alt="Omkar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmkar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
